@@ -2,8 +2,6 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478i6ktwznnkwr42mlzwwtc4r8f0g3dl13jrw0wpcs&rid=giphy.gif&ct=g" ></img>
 
-- 🔭 I’m currently working on **AlcherConnect**
-
 - 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **django,reactjs**
@@ -12,8 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/digvijay.s5548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digvijay.s5548" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/digvijaysihag123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="digvijaysihag123" height="30" width="40" /></a>
+<a href="https://instagram.com/digvijay.s5548" target="blank">
+  <img align="center" src="https://imgtr.ee/images/2023/07/17/0c008948b9437ac44f100cdf3cfeada9.png" alt="digvijay.s5548" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/digvijaysihag123" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="digvijaysihag123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
