@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **django,reactjs**
+- 💬 Ask me about **Django,Nodejs**
 
 - 📫 How to reach me **digvijaysihag123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/digvijay.s5548" target="blank">
-  <img align="center" src="https://imgtr.ee/images/2023/07/17/0c008948b9437ac44f100cdf3cfeada9.png" alt="digvijay.s5548" height="30" width="40" />
-</a>
+<!-- <a href="https://instagram.com/digvijay.s5548" target="blank"> -->
+<!--   <img align="center" src="https://imgtr.ee/images/2023/07/17/0c008948b9437ac44f100cdf3cfeada9.png" alt="digvijay.s5548" height="30" width="40" /> -->
+<!-- </a> -->
 <a href="https://codeforces.com/profile/digvijaysihag123" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="digvijaysihag123" height="30" width="40" /></a>
 </p>
 
